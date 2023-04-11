@@ -22,7 +22,7 @@ int main(){
                 aux++;
             }
         }
-        cout<<aux<<"\n";
+        //cout<<aux<<"\n";
         if(aux<=k){
             ans++;
         }
