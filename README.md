@@ -1,3 +1,5 @@
+Resoluções dos exercícios do treinamento básico de programação competitiva ministrado de forma online aos sábados, para alunos do curso de engenharia de computação da universidade federal de Goiás.
+
 Treino Básico 1,básico de algoritmos:
 https://vjudge.net/contest/532127#overview
 
